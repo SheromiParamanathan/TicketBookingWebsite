@@ -15,7 +15,7 @@ Features :
 •	Contact Us Page: Provides physical address, contact number, and email address for visitors to reach out.
 
 Dependencies :
-This project uses the following dependencies:
+This project uses the following dependencies :
 HTML
 CSS
 JavaScript
