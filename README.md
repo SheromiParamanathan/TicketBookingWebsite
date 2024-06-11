@@ -16,9 +16,9 @@ Features :
 
 Dependencies :
 This project uses the following dependencies:
-•	HTML
-•	CSS
-•	JavaScript
+HTML
+CSS
+JavaScript
 
 
 
